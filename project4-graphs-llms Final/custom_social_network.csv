@@ -1,0 +1,11 @@
+Source,Target,Weight
+Harry,Hermione,3
+Harry,Ron,5
+Hermione,Ron,4
+Harry,Draco,2
+Hermione,Snape,1
+Ron,Harry,3
+Draco,Harry,2
+Snape,Hermione,1
+Harry,Snape,1
+Draco,Snape,2
